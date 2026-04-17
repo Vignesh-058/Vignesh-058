@@ -1,10 +1,95 @@
-## Hi there 👋 It's me Vignesh
+<h1 align="center">Hi 👋, I'm Vignesh</h1>
+<h3 align="center">Full Stack Developer | REST APIs | Problem Solver</h3>
 
-Computer Science Engineering Student
-- 🔭 Here's my [portfolio]()                                                 
-- 🌱 I’m currently learning 
-- Social Presence
-<br /> [<img width="64" height="64" src="https://img.icons8.com/nolan/64/email.png" alt="email"/>]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]() 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vignesh-058&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+---
+
+## 💼 Professional Summary
+Motivated Computer Science student focused on building scalable web applications and REST APIs.  
+Strong foundation in frontend development with growing backend expertise.  
+Actively developing real-world projects to strengthen engineering skills.
+
+---
+
+## 🚀 Technical Skills
+
+**Languages**
+- Python,Java,JavaScript 
+
+**Frontend**
+- Responsive Web Design  
+- DOM Manipulation
+- HTML,CSS
+- Bootstrap,Tailwind CSS
+
+**Backend**
+- Node.js, Express.js  
+
+**Tools & Platforms**
+- Git, GitHub, VS Code  
+
+**Core Concepts**
+- REST API Development  
+- Problem Solving (DSA Basics)  
+
+---
+
+## 📌 Key Projects
+
+### 🔹 Project 1
+- Short description of what it does  
+- Tech used: HTML, CSS, JavaScript  
+👉 https://github.com/your-repo  
+
+### 🔹 Project 2
+- Short description  
+👉 https://github.com/your-repo  
+
+### 🔹 Project 3
+- Short description  
+👉 https://github.com/your-repo  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vignesh-058&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Vignesh-058&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+- Building full-stack applications  
+- Improving problem solving  
+- Learning backend development  
+
+---
+
+## 🌐 Portfolio
+👉 Add your portfolio link here 
+https://vigneshr58.netlify.app/
+
+---
+
+## 📫 Contact
+- 📧 Email: r.vignesh.rvrj@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/vignesh-r3110
+
+---
+
+## 🤝 Open To
+- Internships  
+- Collaboration  
+- Open source contributions  
+
+---
+
+⭐ Consistently improving through real-world projects
